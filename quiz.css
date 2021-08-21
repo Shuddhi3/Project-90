@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: violet;
+  }
+  
+  #output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+  }
+  
+  #player1_name,
+  #player2_name {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  .score{
+    font-size: 20px;
+  }
